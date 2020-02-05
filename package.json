@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "next export"
   },
   "repository": "https://github.com/soundreliability/web.git",
   "author": "studio@soundreliability.engineering",
